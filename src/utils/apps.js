@@ -288,11 +288,11 @@ const apps = [
     payload: "https://github.com/blueedgetechno/win11React",
   },
   {
-    name: "Unescape",
-    icon: "unescape",
+    name: "word",
+    icon: "word",
     type: "action",
     action: "EXTERNAL",
-    payload: "https://blueedge.me/unescape",
+    payload: "https://word.cloud.microsoft/",
   },
   {
     name: "Discord",
