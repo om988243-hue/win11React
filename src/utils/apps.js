@@ -300,6 +300,13 @@ const apps = [
     type: "app",
     action: "DISCORD",
   },
+  {
+       name: "Word",
+    icon: "word",
+    type: "action",
+    action: "EXTERNAL",
+    payload: "https://word.cloud.microsoft/", 
+  },
 ];
 
 for (let i = 0; i < installed.length; i++) {
